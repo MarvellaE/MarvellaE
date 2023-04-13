@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @MarvellaE
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning how to code, bake, and play the flute
 
 
 
